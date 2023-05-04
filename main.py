@@ -1,11 +1,20 @@
 import json
 
+class schema:
+    def __init__ (self):
+        self.tableNames = []
+
+
 with open('./spider-data/tables.json', 'r') as f:
   data = json.load(f)
 
-for idx, schema in enumerate(data):
-    print("Schema", idx)
-    for columnName in schema['table_names']:
-        print(columnName)
+schemas = []
+
+for idx, iSchema in enumerate(data):
+    test = schema()
+    for columnName in iSchema['table_names']:
+        test.tableNames.append(columnName)
+    print("Schema", idx, ":", test.tableNames)
+    schemas.append(test)
 
 print("Hello TextToSQL")

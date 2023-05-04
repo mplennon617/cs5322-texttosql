@@ -3,7 +3,9 @@ import json
 with open('./spider-data/tables.json', 'r') as f:
   data = json.load(f)
 
-for columnName in data[0]['column_names']:
-  print(columnName[1])
+for idx, schema in enumerate(data):
+    print("Schema", idx)
+    for columnName in schema['table_names']:
+        print(columnName)
 
 print("Hello TextToSQL")

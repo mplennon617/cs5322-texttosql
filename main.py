@@ -6,6 +6,8 @@ class schema:
         self.tableNames = []
 
 
+# Loading Spider Data
+
 with open('./spider-data/tables.json', 'r') as f:
   schemaDoc = json.load(f)
 
@@ -27,6 +29,8 @@ for idx, iquery in enumerate(queryDoc):
    tablesArray = [0] * len(schemas[iquery['db_id']].tableNames)
    # Get all the tokens from teh particular query we are looking at
    queryTokens = iquery['query_toks']
+
+    # TODO: Use spacy to tag all table names using named entity recognition (NER).
 
    # Search through all the tokens in the given query
    for idx, queryToken in enumerate(queryTokens):

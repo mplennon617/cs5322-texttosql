@@ -1,0 +1,171 @@
+,question,0,1,2,3,4,5,6,7,8,9
+0,Find the buildings which have rooms with capacity more than 50.,1,0,0,0,0,0,0,0,0,0
+1,What are the distinct buildings with capacities of greater than 50?,1,0,0,0,0,0,0,0,0,0
+2,Count the number of rooms that are not in the Lamberton building.,1,0,0,0,0,0,0,0,0,0
+3,How many classrooms are not in Lamberton?,1,0,0,0,0,0,0,0,0,0
+4,What is the name and building of the departments whose budget is more than the average budget?,0,1,0,0,0,0,0,0,0,0
+5,Give the name and building of the departments with greater than average budget.,0,1,0,0,0,0,0,0,0,0
+6,Find the room number of the rooms which can sit 50 to 100 students and their buildings.,1,0,0,0,0,0,0,0,0,0
+7,What are the room numbers and corresponding buildings for classrooms which can seat between 50 to 100 students?,1,0,0,0,0,0,0,0,0,0
+8,Find the name and building of the department with the highest budget.,0,1,0,0,0,0,0,0,0,0
+9,What is the department name and corresponding building for the department with the greatest budget?,0,1,0,0,0,0,0,0,0,0
+10,What is the name of the student who has the highest total credits in the History department.,0,0,0,0,0,0,1,0,0,0
+11,Give the name of the student in the History department with the most credits.,0,0,0,0,0,0,1,0,0,0
+12,How many rooms does the Lamberton building have?,1,0,0,0,0,0,0,0,0,0
+13,Count the number of classrooms in Lamberton.,1,0,0,0,0,0,0,0,0,0
+14,How many students have advisors?,0,0,0,0,0,0,0,0,1,0
+15,Count the number of students who have advisors.,0,0,0,0,0,0,0,0,1,0
+16,How many departments offer courses?,0,0,1,0,0,0,0,0,0,0
+17,Count the number of departments which offer courses.,0,0,1,0,0,0,0,0,0,0
+18,How many different courses offered by Physics department?,0,0,1,0,0,0,0,0,0,0
+19,Count the number of courses in the Physics department.,0,0,1,0,0,0,0,0,0,0
+20,Find the title of courses that have two prerequisites?,0,0,1,0,0,0,0,0,0,1
+21,What are the titles for courses with two prerequisites?,0,0,1,0,0,0,0,0,0,1
+22,"Find the title, credit, and department name of courses that have more than one prerequisites?",0,0,1,0,0,0,0,0,0,1
+23,"What is the title, credit value, and department name for courses with more than one prerequisite?",0,0,1,0,0,0,0,0,0,1
+24,How many courses that do not have prerequisite?,0,0,1,0,0,0,0,0,0,1
+25,Count the number of courses without prerequisites.,0,0,1,0,0,0,0,0,0,1
+26,Find the name of the courses that do not have any prerequisite?,0,0,1,0,0,0,0,0,0,1
+27,What are the titles of courses without prerequisites?,0,0,1,0,0,0,0,0,0,1
+28,How many different instructors have taught some course?,0,0,0,0,0,1,0,0,0,0
+29,Count the number of distinct instructors who have taught a course.,0,0,0,0,0,1,0,0,0,0
+30,Find the total budgets of the Marketing or Finance department.,0,1,0,0,0,0,0,0,0,0
+31,What is the sum of budgets of the Marketing and Finance departments?,0,1,0,0,0,0,0,0,0,0
+32,Find the department name of the instructor whose name contains 'Soisalon'.,0,0,0,1,0,0,0,0,0,0
+33,What is the name of the department with an instructure who has a name like 'Soisalon'?,0,0,0,1,0,0,0,0,0,0
+34,How many rooms whose capacity is less than 50 does the Lamberton building have?,1,0,0,0,0,0,0,0,0,0
+35,Count the number of rooms in Lamberton with capacity lower than 50.,1,0,0,0,0,0,0,0,0,0
+36,Find the name and budget of departments whose budgets are more than the average budget.,0,1,0,0,0,0,0,0,0,0
+37,What are the names and budgets of departments with budgets greater than the average?,0,1,0,0,0,0,0,0,0,0
+38,what is the name of the instructor who is in Statistics department and earns the lowest salary?,0,0,0,1,0,0,0,0,0,0
+39,Give the name of the lowest earning instructor in the Statistics department.,0,0,0,1,0,0,0,0,0,0
+40,Find the title of course that is provided by both Statistics and Psychology departments.,0,0,1,0,0,0,0,0,0,0
+41,What is the title of a course that is listed in both the Statistics and Psychology departments?,0,0,1,0,0,0,0,0,0,0
+42,Find the title of course that is provided by Statistics but not Psychology departments.,0,0,1,0,0,0,0,0,0,0
+43,What are the titles of courses that are in the Statistics department but not the Psychology department?,0,0,1,0,0,0,0,0,0,0
+44,Find the id of instructors who taught a class in Fall 2009 but not in Spring 2010.,0,0,0,0,0,1,0,0,0,0
+45,What are the ids of instructors who taught in the Fall of 2009 but not in the Spring of 2010?,0,0,0,0,0,1,0,0,0,0
+46,Find the name of students who took any class in the years of 2009 and 2010.,0,0,0,0,0,0,1,1,0,0
+47,What are the names of the students who took classes in 2009 or 2010?,0,0,0,0,0,0,1,1,0,0
+48,Find the names of the top 3 departments that provide the largest amount of courses?,0,0,1,0,0,0,0,0,0,0
+49,What are the names of the 3 departments with the most courses?,0,0,1,0,0,0,0,0,0,0
+50,Find the name of the department that offers the highest total credits?,0,0,1,0,0,0,0,0,0,0
+51,What is the name of the department with the most credits?,0,0,1,0,0,0,0,0,0,0
+52,List the names of all courses ordered by their titles and credits.,0,0,1,0,0,0,0,0,0,0
+53,"Given the titles of all courses, in order of titles and credits.",0,0,1,0,0,0,0,0,0,0
+54,Which department has the lowest budget?,0,1,0,0,0,0,0,0,0,0
+55,Give the name of the department with the lowest budget.,0,1,0,0,0,0,0,0,0,0
+56,List the names and buildings of all departments sorted by the budget from large to small.,0,1,0,0,0,0,0,0,0,0
+57,"What are the names and buildings of the deparments, sorted by budget descending?",0,1,0,0,0,0,0,0,0,0
+58,Who is the instructor with the highest salary?,0,0,0,1,0,0,0,0,0,0
+59,Give the name of the highest paid instructor.,0,0,0,1,0,0,0,0,0,0
+60,List the information of all instructors ordered by their salary in ascending order.,0,0,0,1,0,0,0,0,0,0
+61,"Give all information regarding instructors, in order of salary from least to greatest.",0,0,0,1,0,0,0,0,0,0
+62,Find the name of the students and their department names sorted by their total credits in ascending order.,0,0,0,0,0,0,1,0,0,0
+63,"What are the names of students and their respective departments, ordered by number of credits from least to greatest?",0,0,0,0,0,0,1,0,0,0
+64,list in alphabetic order all course names and their instructors' names in year 2008.,0,0,1,1,0,1,0,0,0,0
+65,"Show all titles and their instructors' names for courses in 2008, in alphabetical order by title.",0,0,1,1,0,1,0,0,0,0
+66,Find the name of instructors who are advising more than one student.,0,0,0,1,0,0,0,0,1,0
+67,What are the names of instructors who advise more than one student?,0,0,0,1,0,0,0,0,1,0
+68,Find the name of the students who have more than one advisor?,0,0,0,0,0,0,1,0,1,0
+69,What are the names of students who have more than one advisor?,0,0,0,0,0,0,1,0,1,0
+70,Find the number of rooms with more than 50 capacity for each building.,1,0,0,0,0,0,0,0,0,0
+71,How many rooms in each building have a capacity of over 50?,1,0,0,0,0,0,0,0,0,0
+72,Find the maximum and average capacity among rooms in each building.,1,0,0,0,0,0,0,0,0,0
+73,What are the greatest and average capacity for rooms in each building?,1,0,0,0,0,0,0,0,0,0
+74,Find the title of the course that is offered by more than one department.,0,0,1,0,0,0,0,0,0,0
+75,What are the titles of courses that are offered in more than one department?,0,0,1,0,0,0,0,0,0,0
+76,Find the total credits of courses provided by different department.,0,0,1,0,0,0,0,0,0,0
+77,How many total credits are offered by each department?,0,0,1,0,0,0,0,0,0,0
+78,Find the minimum salary for the departments whose average salary is above the average payment of all instructors.,0,0,0,1,0,0,0,0,0,0
+79,What is the lowest salary in departments with average salary greater than the overall average.,0,0,0,1,0,0,0,0,0,0
+80,Find the number of courses provided in each semester and year.,0,0,0,0,1,0,0,0,0,0
+81,How many courses are provided in each semester and year?,0,0,0,0,1,0,0,0,0,0
+82,Find the year which offers the largest number of courses.,0,0,0,0,1,0,0,0,0,0
+83,Which year had the greatest number of courses?,0,0,0,0,1,0,0,0,0,0
+84,Find the year and semester when offers the largest number of courses.,0,0,0,0,1,0,0,0,0,0
+85,What is the year and semester with the most courses?,0,0,0,0,1,0,0,0,0,0
+86,Find the name of department has the highest amount of students?,0,0,0,0,0,0,1,0,0,0
+87,What is the name of the deparment with the highest enrollment?,0,0,0,0,0,0,1,0,0,0
+88,Find the total number of students in each department.,0,0,0,0,0,0,1,0,0,0
+89,How many students are in each department?,0,0,0,0,0,0,1,0,0,0
+90,Find the semester and year which has the least number of student taking any class.,0,0,0,0,0,0,0,1,0,0
+91,Which semeseter and year had the fewest students?,0,0,0,0,0,0,0,1,0,0
+92,What is the id of the instructor who advises of all students from History department?,0,0,0,0,0,0,1,0,1,0
+93,Give id of the instructor who advises students in the History department.,0,0,0,0,0,0,1,0,1,0
+94,Find the name and salary of the instructors who are advisors of any student from History department?,0,0,0,1,0,0,1,0,1,0
+95,What are the names and salaries of instructors who advises students in the History department?,0,0,0,1,0,0,1,0,1,0
+96,Find the id of the courses that do not have any prerequisite?,0,0,1,0,0,0,0,0,0,1
+97,What are the ids of courses without prerequisites?,0,0,1,0,0,0,0,0,0,1
+98,Find the name of the courses that do not have any prerequisite?,0,0,1,0,0,0,0,0,0,1
+99,What are the names of courses without prerequisites?,0,0,1,0,0,0,0,0,0,1
+100,What is the title of the prerequisite class of International Finance course?,0,0,1,0,0,0,0,0,0,1
+101,Give the title of the prerequisite to the course International Finance.,0,0,1,0,0,0,0,0,0,1
+102,Find the title of course whose prerequisite is course Differential Geometry.,0,0,1,0,0,0,0,0,0,1
+103,What is the title of the course with Differential Geometry as a prerequisite?,0,0,1,0,0,0,0,0,0,1
+104,Find the names of students who have taken any course in the fall semester of year 2003.,0,0,0,0,0,0,1,1,0,0
+105,What are the names of students who took a course in the Fall of 2003?,0,0,0,0,0,0,1,1,0,0
+106,What is the title of the course that was offered at building Chandler during the fall semester in the year of 2010?,0,0,1,0,1,0,0,0,0,0
+107,Give the title of the course offered in Chandler during the Fall of 2010.,0,0,1,0,1,0,0,0,0,0
+108,Find the name of the instructors who taught C Programming course before.,0,0,1,1,0,1,0,0,0,0
+109,What are the names of instructors who have taught C Programming courses?,0,0,1,1,0,1,0,0,0,0
+110,Find the name and salary of instructors who are advisors of the students from the Math department.,0,0,0,1,0,0,1,0,1,0
+111,What are the names and salaries of instructors who advise students in the Math department?,0,0,0,1,0,0,1,0,1,0
+112,"Find the name of instructors who are advisors of the students from the Math department, and sort the results by students' total credit.",0,0,0,1,0,0,1,0,1,0
+113,What are the names of all instructors who advise students in the math depart sorted by total credits of the student.,0,0,0,1,0,0,1,0,1,0
+114,What is the course title of the prerequisite of course Mobile Computing?,0,0,1,0,0,0,0,0,0,1
+115,What is the title of the course that is a prerequisite for Mobile Computing?,0,0,1,0,0,0,0,0,0,1
+116,Find the name of instructor who is the advisor of the student who has the highest number of total credits.,0,0,0,1,0,0,1,0,1,0
+117,What is the name of the instructor who advises the student with the greatest number of total credits?,0,0,0,1,0,0,1,0,1,0
+118,Find the name of instructors who didn't teach any courses?,0,0,0,1,0,1,0,0,0,0
+119,What are the names of instructors who didn't teach?,0,0,0,1,0,1,0,0,0,0
+120,Find the id of instructors who didn't teach any courses?,0,0,0,1,0,1,0,0,0,0
+121,What are the ids of instructors who didnt' teach?,0,0,0,1,0,1,0,0,0,0
+122,Find the names of instructors who didn't each any courses in any Spring semester.,0,0,0,1,0,1,0,0,0,0
+123,What are the names of instructors who didn't teach courses in the Spring?,0,0,0,1,0,1,0,0,0,0
+124,Find the name of the department which has the highest average salary of professors.,0,0,0,1,0,0,0,0,0,0
+125,Which department has the highest average instructor salary?,0,0,0,1,0,0,0,0,0,0
+126,Find the number and averaged salary of all instructors who are in the department with the highest budget.,0,1,0,1,0,0,0,0,0,0
+127,"How many instructors are in the department with the highest budget, and what is their average salary?",0,1,0,1,0,0,0,0,0,0
+128,What is the title and credits of the course that is taught in the largest classroom (with the highest capacity)?,1,0,1,0,1,0,0,0,0,0
+129,Give the title and credits for the course that is taught in the classroom with the greatest capacity.,1,0,1,0,1,0,0,0,0,0
+130,Find the name of students who didn't take any course from Biology department.,0,0,1,0,0,0,1,1,0,0
+131,What are the names of students who haven't taken any Biology courses?,0,0,1,0,0,0,1,1,0,0
+132,Find the total number of students and total number of instructors for each department.,0,1,0,1,0,0,1,0,0,0
+133,How many students and instructors are in each department?,0,1,0,1,0,0,1,0,0,0
+134,Find the name of students who have taken the prerequisite course of the course with title International Finance.,0,0,1,0,0,0,1,1,0,1
+135,What are the names of students who have taken the prerequisite for the course International Finance?,0,0,1,0,0,0,1,1,0,1
+136,Find the name and salary of instructors whose salary is below the average salary of the instructors in the Physics department.,0,0,0,1,0,0,0,0,0,0
+137,What are the names and salaries for instructors who earn less than the average salary of instructors in the Physics department?,0,0,0,1,0,0,0,0,0,0
+138,Find the name of students who took some course offered by Statistics department.,0,0,1,0,0,0,1,1,0,0
+139,What are the names of students who have taken Statistics courses?,0,0,1,0,0,0,1,1,0,0
+140,"Find the building, room number, semester and year of all courses offered by Psychology department sorted by course titles.",0,0,1,0,1,0,0,0,0,0
+141,"What are the building, room number, semester and year of courses in the Psychology department, sorted using course title?",0,0,1,0,1,0,0,0,0,0
+142,Find the names of all instructors in computer science department,0,0,0,1,0,0,0,0,0,0
+143,What are the names of all instructors in the Comp. Sci. department?,0,0,0,1,0,0,0,0,0,0
+144,Find the names of all instructors in Comp. Sci. department with salary > 80000.,0,0,0,1,0,0,0,0,0,0
+145,What are the names of the instructors in the Comp. Sci. department who earn more than 80000?,0,0,0,1,0,0,0,0,0,0
+146,Find the names of all instructors who have taught some course and the course_id.,0,0,0,1,0,1,0,0,0,0
+147,"What are the names of all instructors who have taught a course, as well as the corresponding course id?",0,0,0,1,0,1,0,0,0,0
+148,Find the names of all instructors in the Art department who have taught some course and the course_id.,0,0,0,1,0,1,0,0,0,0
+149,"What are the names of Art instructors who have taught a course, and the corresponding course id?",0,0,0,1,0,1,0,0,0,0
+150,Find the names of all instructors whose name includes the substring “dar”.,0,0,0,1,0,0,0,0,0,0
+151,"What are the names of all instructors with names that include ""dar""?",0,0,0,1,0,0,0,0,0,0
+152,List in alphabetic order the names of all distinct instructors.,0,0,0,1,0,0,0,0,0,0
+153,"List the distinct names of the instructors, ordered by name.",0,0,0,1,0,0,0,0,0,0
+154,Find courses that ran in Fall 2009 or in Spring 2010.,0,0,0,0,1,0,0,0,0,0
+155,What are the ids for courses in the Fall of 2009 or the Spring of 2010?,0,0,0,0,1,0,0,0,0,0
+156,Find courses that ran in Fall 2009 and in Spring 2010.,0,0,0,0,1,0,0,0,0,0
+157,What are the ids for courses that were offered in both Fall of 2009 and Spring of 2010?,0,0,0,0,1,0,0,0,0,0
+158,Find courses that ran in Fall 2009 but not in Spring 2010.,0,0,0,0,1,0,0,0,0,0
+159,What are the ids of courses offered in Fall of 2009 but not in Spring of 2010?,0,0,0,0,1,0,0,0,0,0
+160,Find the salaries of all distinct instructors that are less than the largest salary.,0,0,0,1,0,0,0,0,0,0
+161,What are the distinct salaries of all instructors who earned less than the maximum salary?,0,0,0,1,0,0,0,0,0,0
+162,Find the total number of instructors who teach a course in the Spring 2010 semester.,0,0,0,0,0,1,0,0,0,0
+163,How many instructors teach a course in the Spring of 2010?,0,0,0,0,0,1,0,0,0,0
+164,Find the names and average salaries of all departments whose average salary is greater than 42000.,0,0,0,1,0,0,0,0,0,0
+165,What are the names and average salaries for departments with average salary higher than 42000?,0,0,0,1,0,0,0,0,0,0
+166,Find names of instructors with salary greater than that of some (at least one) instructor in the Biology department.,0,0,0,1,0,0,0,0,0,0
+167,What are the names of instructors who earn more than at least one instructor from the Biology department?,0,0,0,1,0,0,0,0,0,0
+168,Find the names of all instructors whose salary is greater than the salary of all instructors in the Biology department.,0,0,0,1,0,0,0,0,0,0
+169,What are the names of all instructors with a higher salary than any of the instructors in the Biology department?,0,0,0,1,0,0,0,0,0,0
